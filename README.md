@@ -1,3 +1,3 @@
 # Arogya-FrontEnd
 
-<a href="https://nitesh-giri.github.io/Arogya-FrontEnd/index.html#arogya-products"><h1>Click me</h1></a>
+<a href="https://nitesh-giri.github.io/Arogya-FrontEnd/"><h1>Click me</h1></a>
